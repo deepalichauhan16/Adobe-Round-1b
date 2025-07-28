@@ -38,6 +38,7 @@ This project is a submission for **Adobe India Hackathon 2025 – Challenge 1b**
 │   ├── ranker.py
 │   ├── summarizer.py
 │   └── utils.py
+│   └── extractor.py
 ├── 📁 models/
 ├── 📁 input/
 ├── 📁 output/
